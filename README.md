@@ -45,3 +45,5 @@ this issue.
 
 For more information you can read the paper. 
 In the Notebook you can have access to the code. All dependencies are intstalled in the notebook. Therefore the notebook is ready to perform.
+
+For more details look the repository (GrouPy)[https://github.com/tscohen/GrouPy]
