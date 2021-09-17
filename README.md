@@ -41,3 +41,7 @@ CNNs are not able to exploit directly other symmetries as
 well as translation. Cohen & Welling (2016) proposed a
 generalization of convolution G-convolution to overcome
 this issue.
+
+
+For more information you can read the paper. 
+In the Notebook you can have access to the code. All dependencies are intstalled in the notebook. Therefore the notebook is ready to perform.
