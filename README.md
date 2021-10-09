@@ -1,4 +1,4 @@
-# Experiment-Equivariant-Neural_Networks
+# Experiment-Equivariant-Neural-Networks
 
 
 Group equivariant convolutional neural networks
