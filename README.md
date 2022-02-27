@@ -13,8 +13,7 @@ datasets.
 
 
 Convolution neural networks (CNNs) have become the
-gold standard for addressing sevaral problems in Artifi-
-cial Intelligence (LeCun et al., 2015). CNNs have allowed
+gold standard for addressing sevaral problems in Artificial Intelligence (LeCun et al., 2015). CNNs have allowed
 to overcome the limitations of ancient models, in particular they bring the following important ideas into machine
 learning (Goodfellow et al., 2016): sparse interaction, parameters sharing and equivariant rappresentation.
 Traditional neural networks use matrix multiplication as
@@ -25,8 +24,7 @@ in the data.
 The convolution layer, embedded in CNNs, has a nice property called translation equivariance. In general we say that
 a function f is equivariant to a function g if f (g(x)) =
 g(f (x)). In the scenario of convolution, the function g
-can be any translation function of the input. A drawback is that convolution is not equivariant to other transfor-
-mations/symmetries like rotations and reflections; for in-
+can be any translation function of the input. A drawback is that convolution is not equivariant to other transformations/symmetries like rotations and reflections; for in-
 stance, rotating the image and then convolving is not the same as first convolving and then rotating the result. Thus,
 CNNs are not able to exploit directly other symmetries as
 well as translation. Cohen & Welling (2016) proposed a
