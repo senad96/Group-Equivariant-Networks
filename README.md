@@ -3,7 +3,7 @@
 
 Group equivariant convolutional neural networks
 (G-CNNs) has been introduced by Cohen &
-Welling (2016). These new models can be considered as an evolution of convolutional nerual
+Welling (2016). These new models can be considered as an evolution of convolutional neural
 networks (CNNs). The key operation which G-CNNs use is G-Convolution; this is a new layer
 that make neural networks equivariant to new
 symmetries. In this paper, I’ll provide a theoretical overview of G-CNNs, G-Convolution and
