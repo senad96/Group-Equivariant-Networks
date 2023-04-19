@@ -11,7 +11,7 @@ finally I’ll show the performance of G-CNNs
 vs CNNs on Fashion-MNIST and CIFAR-10
 datasets.
 
-Read the paper for more details.
+Read the paper main.pdf for more details.
 In the Notebook you can have access to the code. All dependencies are intstalled in the notebook. Therefore the notebook is ready to run.
 
 For more details about the implementation, you can look the original repository [GrouPy](https://github.com/tscohen/GrouPy)
